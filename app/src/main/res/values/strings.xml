@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Encryption Demo</string>
+    <string name="setup_message">Setting Up</string>
+    <string name="secret_input_hint">Type secrets</string>
+    <string name="save_secret">save secret</string>
+    <string name="saved_text_label">Text stored in preferences</string>
+    <string name="secret_label">Decrypted secret</string>
+</resources>
